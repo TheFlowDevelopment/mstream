@@ -1,0 +1,33 @@
+
+{
+
+    "playlist1": {
+    
+        "0":{
+        
+        "title": "example title",
+        "link": "example link"
+        
+        }, 
+        "1": {
+            "title": "example title",
+            "link": "example link"
+        }
+    
+    },
+    "playlist2": {
+    
+        "0":{
+        
+        "title": "example title",
+        "link": "example link"
+        
+        }, 
+        "1": {
+            "title": "example title",
+            "link": "example link"
+        }
+    
+    }
+
+}
